@@ -1,0 +1,17 @@
+README.md
+setup.py
+Classic/Bit.py
+Classic/ClassicRegister.py
+Classic/__init__.py
+Config/__init__.py
+Quantum/QuantumRegister.py
+Quantum/Qubit.py
+Quantum/__init__.py
+QuantumComputer/QuantumComputer.py
+QuantumComputer/__init__.py
+QuantumComputer/__main__.py
+QuantumComputerSimulation.egg-info/PKG-INFO
+QuantumComputerSimulation.egg-info/SOURCES.txt
+QuantumComputerSimulation.egg-info/dependency_links.txt
+QuantumComputerSimulation.egg-info/entry_points.txt
+QuantumComputerSimulation.egg-info/top_level.txt
