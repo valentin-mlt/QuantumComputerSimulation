@@ -1,2 +1,0 @@
-[console_scripts]
-quantum-computer = QuantumComputer.QuantumComputer:main

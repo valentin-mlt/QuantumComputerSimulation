@@ -1,0 +1,57 @@
+{
+  "qubit_config": {
+
+    "main_qubit" : {
+      "qubit_type": "main",
+      "qubit_value": 0,
+      "alpha_value": [1, 0],
+      "beta_value": [0, 0],
+      "state": "uncreated"
+    },
+
+    "temporary_qubit" : {
+      "qubit_type": "temporary",
+      "qubit_value": 0,
+      "alpha_value": [1, 0],
+      "beta_value": [0, 0],
+      "state": "uncreated"
+    },
+
+    "other_qubit" : {
+      "qubit_type": "other",
+      "qubit_value": 0,
+      "alpha_value": [1, 0],
+      "beta_value": [0, 0],
+      "state": "uncreated"
+    }
+  },
+  
+  "quantum_register_config": {
+
+    "main_quantum_register": {
+      "qubits_number": 10,
+      "quantum_register_type": "main",
+      "qubits_view": false
+    },
+
+    "temporary_quantum_register": {
+      "qubits_number": 10,
+      "quantum_register_type": "temporary",
+      "qubits_view": false
+    },
+
+    "other_quantum_register": {
+      "qubits_number": 10,
+      "quantum_register_type": "other",
+      "qubits_view": false
+    } 
+  },
+
+  "quantum_computer_config": {
+    "quantum_registers_type_count": {
+        "main_register": 1,
+        "temporary_register": 1,
+        "other_register": 1
+    }
+  }
+}
